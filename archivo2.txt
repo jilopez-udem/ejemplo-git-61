@@ -1,7 +1,8 @@
 se agrega un archivo nuevo al repositorio y está en la segunda rama
-safa
+saf
 
 safas
-fsdaf
-as
-fsdafs
+fsda
+as..
+fsdafs..
+se modifico el archivo2#
