@@ -1,7 +1,7 @@
-archivo inicial del repositorio
+archivo inicial del repositorio 
 
-se modifica en otra rama llamada rama
-se agrega una linea nueva en rama
-se pone un cambio en la rama main
+se modifica en otra rama llamada rama...
+se agrega una linea nueva en rama.
+se pone un cambio en la rama main.
 se creo la rama cambios
 se modifica el archivo1
